@@ -1545,7 +1545,7 @@
             <div class="max-w-5xl mx-auto text-center">
                 <h1 class="mt-10 mb-6 text-4xl font-bold text-gray-800">Welcome to the Task Manager</h1>
                 <p class="mb-10 text-lg text-gray-600">A simple, real-time task management system built with Laravel and
-                    Livewire.</p>
+                    Livewire 3.</p>
 
                 <div class="grid gap-6 text-left md:grid-cols-2">
                     <div class="p-6 bg-white rounded shadow">
